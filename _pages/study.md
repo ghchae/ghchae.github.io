@@ -1,8 +1,8 @@
 ---
+layout: single
 title: "공부"
 excerpt: "blog"
 permalink: /study/
-layout: study
 author_profile: true
 ---
 
