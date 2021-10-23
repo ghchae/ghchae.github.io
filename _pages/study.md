@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "공부"
 excerpt: "blog"
 permalink: /study/
